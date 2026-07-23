@@ -6,9 +6,15 @@
   },
   "users": [
     {
+      "login_name": "Gabby924",
+      "avatar_url": "https://avatars.githubusercontent.com/u/290409362?v=4",
+      "admin": true
+    },
+    {
       "login_name": "wowjhow",
       "avatar_url": "https://avatars.githubusercontent.com/u/169268830?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -34,6 +40,27 @@
       "tags": []
     },
     "created_at": "2026-07-23T12:33:49.057Z",
-    "updated_at": "2026-07-23T12:33:49.057Z"
-  }
+    "updated_at": "2026-07-23T12:33:49.057Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "0cc6ab0a-4145-4c4d-8c88-2f04ebb603f9": {
+      "content": [],
+      "created_at": "2026-07-23T12:33:49.083Z",
+      "created_by": "Gabby924",
+      "title": "Afrique-sur-Seine",
+      "updated_at": "2026-07-23T12:33:49.083Z",
+      "updated_by": "Gabby924",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "0cc6ab0a-4145-4c4d-8c88-2f04ebb603f9"
+  ]
 }
